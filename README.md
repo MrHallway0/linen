@@ -1,4 +1,10 @@
+# Linen (Linen Is Not Ever Noobs)
+Load up the wiki using this disk: [:cd:](https://github.com/MrHallway0/linen/wiki)
+
+
+
 # NOOBS (New Out of Box Software)
+##### Old docs of NOOBS (to be removed)
 #### An easy Operating System installer for the Raspberry Pi
 
 NOOBS is designed to make it easy to select and install operating systems for the Raspberry Pi without having to worry about manually imaging your SD card.
